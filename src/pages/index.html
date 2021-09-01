@@ -93,23 +93,31 @@
         </p>
         <div class="projects-grid">
           <article class="project">
-            <h3 class="project__title">
-              <span>project</span> <span>nazwa projektu</span>
+            <div class="project__window">
+              <span class="project__circle"></span>
+              <span class="project__circle"></span>
+              <span class="project__circle"></span>
+            </div>
+            <div class="project__content">
+              <img src="../assets/img/github-cat.svg" alt="">
+            <h3 class="project__grid project__title">
+              <span class="project__label">project:</span> <span>nazwa projektu</span>
             </h3>
-            <p><span>description: </span> <span> opis projektu </span></p>
-            <p>
-              <span>demo: </span>
+            <p class="project__grid"><span class="project__label">description: </span> <span> opis projektu </span></p>
+            <p class="project__grid">
+              <span class="project__label">demo: </span>
               <span>
                 &lt;
-                <a href="#" title="nazwa repozytorium"> see_here</a>&gt;</span
+                <a class="project__link" href="#" title="nazwa repozytorium"> see_here</a>&gt;</span
               >
             </p>
-            <p>
-              <span>Github </span>
+            <p class="project__grid">
+              <span class="project__label">Github: </span>
               <span>
-                &lt; <a href="#" title="source_code"> source_code</a>&gt;</span
+                &lt; <a class="project__link" href="#" title="source_code"> source_code</a>&gt;</span
               >
             </p>
+          </div>
           </article>
         </div>
       </section>
