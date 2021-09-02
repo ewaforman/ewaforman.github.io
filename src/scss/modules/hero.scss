@@ -1,8 +1,11 @@
 .hero {
   padding: 74px 16px 88px;
   @media (min-width: $tablet) {
-    max-width: 768px;
+    max-width: 786px;
     margin: 0 auto;
+  }
+  @media (min-width: $desktop) {
+    max-width: 100%;
   }
   &__bubble {
     position: absolute;
@@ -23,6 +26,27 @@
   }
   &__description {
     text-align: center;
+    @media (min-width: $desktop) {
+      max-width: 786px;
+      margin: 0 auto;
+      position: relative;
+      &::before, &::after {
+        width: 82.94px;
+        height: 254.88px;
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+      }
+      &::before {
+        background: url('../assets/img/{.svg');
+          right: 100%;
+      }
+      &::after {
+        background: url('../assets/img/}.svg');
+        left: 100%;
+      }
+    }
   }
   &__header {
     font-size: 26px;
