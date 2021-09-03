@@ -1,18 +1,14 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+Moje portfolio
 
-# WTF Webpack Starter Kit 
+I would like to work in IT. 
 
-Simple toolkit for your static websites development.
+About me... 
 
-## How to use it?
+My name is Ewa...
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Knowledge and experience
 
-## Available scripts
-
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
+- Python
+- HTML/CSS
+- JavaScript
 
