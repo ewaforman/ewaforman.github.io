@@ -1,5 +1,3 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
-
 Moje portfolio
 
 I would like to work in IT. 
