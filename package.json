@@ -14,7 +14,6 @@
     "Webpack",
     "boilerplate"
   ],
-  "author": "Maciek Korsan",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.1",
