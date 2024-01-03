@@ -1,3 +1,2 @@
-My name is Ewa and I am aspiring software tester.
-To achive my goal I have started learning Python. Then using Flask I created my first RESTful service offering all CRUD operations on a fully managed SQL database. I also prepared frontend application to communicate with my backend. Finallay I tested this with Selenium (Python). For gain some working experience I have recently started testing on the uTest platform.
+I am manual and automation tester with over 1.5 year of working experience. I tested variety of mobile and web applications. I am familiar with ISTQB, E2E tests, API testing and data bases. My goal is to become an expert in QA and testing. I am looking for project to face up new challenges.
 
